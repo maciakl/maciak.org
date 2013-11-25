@@ -1,0 +1,15 @@
+{
+  "name": "maciak.org",
+  "version": "0.0.1",
+  "authors": [
+    "Luke Maciak"
+  ],
+  "description": "Source code for maciak.org",
+  "license": "GPL",
+  "homepage": "maciak.org",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "http://getbootstrap.com/2.3.2/assets/bootstrap.zip",
+    "jquery": "~2.0.3"
+  }
+}
