@@ -2,10 +2,14 @@
 <html>
     <head>
         <title>Look of Disapproval</title>
-        <style> body { width: 250px; } div.lod-tiles div { font-size: x-large; padding: 10px; border: 1px solid gray; } </style>
+        <style> 
+            body { width: 250px; } div.lod-tiles div { font-size: x-large; padding: 10px; border: 1px solid gray; }
+            a { text-decoration: none; font-size: x-large; }
+        </style>
     </head>
     <body>
     <div id="lod">
+        <p><small>Click anywhere to dismiss.</small></p>
 
         <div class="lod-tiles">
             <div>&#3232;_&#3232;</div>
@@ -19,9 +23,18 @@
             <div>(╥﹏╥)</div>
             <div>◉‿◉</div>
         </div>
+        
+        
 
-
-        <p><small>Drag the following link to the bookmarks bar:</small> <a href="javascript:(function(){f='http://maciak.org/lod.html';a=function(){if(!window.open(f+'?noui=1&jump=doclose','twitterkeys','height=650,width=300,title=no,location=no,scrollbars=no,menubars=no,navigation=no,statusbar=no,directories=no,resizable=no,status=no,toolbar=no,menuBar=no'))location.href=f+'?jump=yes'};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}})()">LOD</a></p>
+        <p><small>Drag the following link to the bookmarks bar:</small></p>
+        
+        <strong><a href="javascript: (function () {
+                                    var jsCode = document.createElement('script');
+                                    jsCode.setAttribute('src', 'http://maciak.org/lod.js');                 
+                                    document.body.appendChild(jsCode);
+                                    }());">
+            &#3232;_&#3232;
+            </a></strong>
 
     </div>
     </body>
