@@ -1,0 +1,46 @@
+---
+layout: page
+title: Fix My Printer
+subtitle: Print Spooler Cleanup
+description: fix print spooler issues
+
+---
+
+    <div class="span4">
+        <img src="/tools/fixmyprinter/fixmyprinter.jpg">
+    </div>
+
+    <div class="span6">
+
+        <h4>Description</h4>
+        <p>Having trouble printing? Documents piling up in the printer queue? Can't delete failed print jobs using the
+        built in printer application?</p>
+        
+        <p>It sounds like something is stuck in your printer queue. <em>Fix My Printer</em> 
+        is a tool designed to fix that very problem</p>
+
+
+    </div>
+</div>
+
+<div class="row">
+    <div class="span4">
+        <h4>Downloads</h4>
+
+        <p>Click below to download <code>FixMyPrinter.exe</code></p>
+
+        <p><a class="btn btn-inverse btn-large" href="/tools/fixmyprinter/FixMyPrinter.exe"><i class="icon-download icon-white"></i> Download</a></p>
+    </div>
+    <div class="span6">
+        <h4>Technical Information</h4>
+
+        <p><small>This tool does not touch printer drivers, or diagnose printer connectivity issues. It shuts down
+            the spooler service, deletes all the files from the spool folder and restarts the service.</small></p>
+
+        <pre>
+    net stop spooler
+    del %SystemRoot%\SYSTEM32\SPOOL\PRINTERS\*
+    net start spooler
+        </pre>
+    </div>
+</div>

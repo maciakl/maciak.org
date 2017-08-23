@@ -1,0 +1,23 @@
+---
+layout: simplest
+title: Windows
+subtitle: Freeware Tools
+image: win.png
+order: 5
+---
+
+<h3>Freeware Windows Tools</h3>
+
+<p>Provided as is, no warranty, etc..</p>
+
+<ul>		
+    <li><a href="http://setupassistant.org/">Luke's Setup Assistant</a> - setup and diagnostics tool for sysadmins.</li>
+    <li><a href="https://maciakl.github.io/Plain-Text-Journal/">Plain Text Journal</a> - Simple journaling tool.</li>
+
+    {% for page in site.win %}
+        <li>
+        <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
+        </li>
+    {% endfor %}
+
+</ul>

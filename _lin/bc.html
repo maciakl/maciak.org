@@ -1,0 +1,28 @@
+---
+layout: simple
+title: BC Extensions 
+subtitle: Common functions and constants
+description: useful extensions for the unix calculator utility
+image: termn.jpg
+---
+
+<h4>Description</h4>
+<p>These files were created by Steffen Brinkmann for the <a href="http://x-bc.sourceforge.net/index.html">Xbc Project</a>
+and are distributed under GPL license.</p>				
+
+<h4>Downloads</h4>
+
+<ul>
+    <li><a href="/tools/bc/extensions.bc">extensions.bc</a>. <small>defines useful functions such as sin, ln, log, etc.</small></li>
+    <li><a href="/tools/bc/scientific_constants.bc">scientific_constants.bc</a> <small>defines many useful scientific constants.</small></li>
+</ul>
+
+<h4>Instructions</h4>
+
+<p>To use them simply specify them on the command line when you run bc:</p>
+
+<pre>bc extensions.bc scientific_constants.bc</pre>
+
+<p>It is probably a good idea to create an alias in your .bashrc:</p>
+
+<pre>alias bc='bc -l extensions.bc scientific_constants.bc</pre>

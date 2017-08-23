@@ -1,5 +1,0 @@
-option batch abort
-option confirm off
-open sftp://maciakl@atum.dreamhost.com
-synchronize remote -delete C:\Users\luke\projects\_maciak.org\lamp\www /home/maciakl/maciak.org
-exit

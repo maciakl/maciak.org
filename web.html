@@ -1,0 +1,19 @@
+---
+layout: simple
+title: Web
+subtitle: Online Tools and Bookmarklets
+image: web.jpg
+order: 7
+---
+
+        <h3>Bookmarklets</h3>
+
+        <ul>
+            {% for page in site.web %}
+                <li>
+                    <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>

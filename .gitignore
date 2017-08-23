@@ -1,3 +1,5 @@
-*.exe
 *.deb
-bower_components
+*.exe
+_site
+.sass-cache
+.jekyll-metadata

@@ -1,0 +1,28 @@
+title: maciak.org
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://maciak.org" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: LukeMaciak
+github_username:  maciakl
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+    win:
+        output: true
+    lin:
+        output: true
+    web:
+        output: true
+    tabletop:
+        output: true
+    security:
+        output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - exclude.rsync
