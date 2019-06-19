@@ -8,6 +8,8 @@ order: 8
 
 ### IT Services
 
+This page exists mainly to inform friends of relatives: yes, I can potentially fix your computer, but only if you make it worth my time.
+
 Services include, but are not limited to:
 
 - hardware and software upgrades

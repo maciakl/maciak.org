@@ -18,6 +18,8 @@ collections:
         output: true
     tabletop:
         output: true
+    gamedev:
+        output: true
     security:
         output: true
 

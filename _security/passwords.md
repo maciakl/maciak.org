@@ -15,8 +15,6 @@ Never, ever re-use passwords. Humans can't remember dozens of complex passwords,
 
 Use LastPass to generate random 30+ character passwords for all your other accounts. Make them as complex as the site will allow. Tick all the complexity boxes where possible. You will never have to remember these.
 
-If you're just signing up for LastPass, get the discounted [Subscription + Yubikey Bundle](https://www.yubico.com/product/lastpass-bundles/).
-
 ### Pass Phrase Complexity
 
 What you've been told about passwords is a lie. Use a phrase consisting of five or more words with punctuation. Throw in some numbers for good measure and you are good. It does not have to be iron clad, because you will be relying on your second factor. So even if someone knows your password they will still have to physically steal your hardware key.
