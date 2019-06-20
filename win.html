@@ -1,7 +1,7 @@
 ---
 layout: simplest
-title: Windows Freeware
-subtitle: Garbage Tools for Trash People
+title: Windows
+subtitle: Windows Related Things
 image: win.png
 order: 5
 ---
@@ -19,5 +19,16 @@ order: 5
         <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
         </li>
     {% endfor %}
+</ul>
 
+<h3>Tips and Tricks</h3>
+
+<p>A small knowledge base of various power user and admin tricks:</a>
+
+<ul>
+    {% for page in site.kb %}
+        <li>
+        <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
+        </li>
+    {% endfor %}
 </ul>
