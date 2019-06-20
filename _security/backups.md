@@ -17,9 +17,7 @@ description: how to avoid losing everything forever
 
 Sign up for cloud backup service.
 
-- [Mozy Personal](https://mozy.com/product/mozy/personal) ($5.99/mo) - does both cloud backup and on-site backup to external drive.
-
-Make sure it's saving all the files it needs. By default Mozy omits some files (source code and executables might get skipped).
+- [Carbonite](https://www.carbonite.com/backup-software/buy-carbonite-safe) ($6/mo) - does both cloud backup and on-site backup to external drive.
 
 ### Cloud Sync
 
