@@ -24,6 +24,8 @@ collections:
         output: true
     security:
         output: true
+    lock:
+        output: true
 
 exclude:
   - Gemfile
