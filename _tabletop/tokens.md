@@ -11,7 +11,8 @@ Most of these are PDF files you can print out and cut out.
 
 <h4>Warmachine</h4>
 
-- [Official Template Set](https://app.box.com/s/teqxklzf3ba0brc60gm5lzosnc9z4icc)
+- [Official Template Set](https://app.box.com/s/teqxklzf3ba0brc60gm5lzosnc9z4icc) - when you forgot your acrylic set
+- [Front Arc Markers](/doc/frontarc.pdf) - great for painting front arc on your models
 - Printable wreck markers:
   - [Cygnar, Khador, Cryx and Menoth](https://app.box.com/s/k76gut1vb3yf7v0ihzgd22kbaz6avaaq)
   - [Retribution and Mercenaries](https://app.box.com/s/zbltyzjg9n1kdxoe1ktkhzhoz3q46npq)

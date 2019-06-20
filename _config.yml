@@ -20,6 +20,8 @@ collections:
         output: true
     gamedev:
         output: true
+    rpg:
+        output: true
     security:
         output: true
 
