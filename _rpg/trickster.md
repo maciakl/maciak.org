@@ -2,7 +2,7 @@
 layout: simple
 title: Arcane Trickster Spell Sheet
 subtitle: Form Fillable
-description: an alternative spell sheet for Arcane Trickster Rogue
+description: an alternative D&D spell sheet for Arcane Trickster
 image: sheet.jpg
 ---
 

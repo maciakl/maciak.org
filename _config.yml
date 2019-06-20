@@ -7,10 +7,13 @@ github_username:  maciakl
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 permalink: pretty
 
 collections:
     win:
+        output: true
+    kb:
         output: true
     lin:
         output: true
