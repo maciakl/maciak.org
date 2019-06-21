@@ -1,15 +1,13 @@
 ---
 layout: wide
-title: Tokens and Templates
+title: Warmachine Tokens and Templates
 subtitle: Buy or Print
-description: list of useful tokens and templates you can buy or print
+description: useful tokens and templates you can buy or print
 ---
 
 <h3>Printable Templates</h3>
 
 Most of these are PDF files you can print out and cut out.
-
-<h4>Warmachine</h4>
 
 - [Official Template Set](https://app.box.com/s/teqxklzf3ba0brc60gm5lzosnc9z4icc) - when you forgot your acrylic set
 
@@ -32,8 +30,6 @@ Most of these are PDF files you can print out and cut out.
 
 Transparent tokens and templates I found useful in my games:
 
-<h4>Warmachine</h4>
-
 - Acrylic Area of Effect rings with deviation markings:
 
   - [3" AoE Ring Template](http://amzn.to/1jNnIxA)
@@ -53,16 +49,4 @@ Transparent tokens and templates I found useful in my games:
 - [Feat Token and Movement Tool](https://ironheartartisans.com/shop/geared-quick-template-and-feat-token-warmachine-movement-template/) - that foot token
 
 - [Force Field Markers](https://amzn.to/2L6FTQ5) - for Ret players mostly
-
-<h4>Malifaux</h4>
-
-- [Core Marker Set](https://art-of-war-studios-ltd.myshopify.com/products/malifaux-core-tokens-set) - a whole set of tokens, for all factions
-
-
-<h3>Other Tools</h3>
-
-- [Harbor Freight Laser Marker](http://www.harborfreight.com/laser-marker.html) - best line of sight tool
-
-- [Bad Ink Fate Deck](https://amzn.to/2IWmoac) - a fate deck for Malifaux
-
 
