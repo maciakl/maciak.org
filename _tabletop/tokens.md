@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: Warmachine Tokens and Templates
+title: Warmachine Tokens
 subtitle: Buy or Print
 description: useful tokens and templates you can buy or print
 ---
