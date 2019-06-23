@@ -36,8 +36,12 @@ It's a great starter set that checks all the boxes mentioned above.
 
 Sometimes you need non-standard dice for specific edge cases:
 
+- [Fudge Dice](https://amzn.to/2Ya4O8U) - if you need dice for Fate, Fudge or those kind of games
 - [Shadowrun Dice](https://amzn.to/2Kt0Ogm) - specially designed Shadowrun dice, with three colors of pips
 - [Skew Dice](https://amzn.to/2MZUtLI) - nicely deformed, great for horror games or Blades in the Dark
 - [Hex Dice](https://www.thediceshoponline.com/dice/4411/impact-opaque-hexidice-d16-hexadecimal-dice) - hexadecimal dice (I'm designing a game around them)
 - [Binary Dice](https://amzn.to/2X1QyTm) - a d6 with sides marked 0 or 1. It can serve as a D2
+- [Compass Dice](https://amzn.to/2XtenT7) - dice with cardinal directions instead of numbers
+- [Large Blank Dice](https://amzn.to/2XtLgiC) - for making your own special dice
+- [Multicolor Blank Dice](https://amzn.to/2RwKWtX) - in case you need custom dice in different colors
 - [Numerically Balanced D20](https://www.thediceshoponline.com/dice/11055/tessellations-opaque-red-numerically-balanced-d20-dice) - very interesting concept, and the die feels good when rolling

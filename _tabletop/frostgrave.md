@@ -23,3 +23,4 @@ There are couple of decent online choices here:
 It's probably best to make your own, but sometimes you may just want some pre-made ones:
 
 - [Warlord Treasure Tokens](https://us-store.warlordgames.com/products/frostgrave-resin-treasure-tokens) - a resin token set
+- [Wiz Kids Deep Cuts](https://wizkids.com/wizkids-deep-cuts/) - good assortment of chests

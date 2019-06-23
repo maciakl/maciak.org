@@ -22,3 +22,9 @@ Here are some tools I have used when world building or trying to flesh out a set
 - [GM5](https://apps.apple.com/us/app/game-master-5th-edition/id908176026) - a DM phone app for 5th edition (iOS)
 - [Random Generators](https://donjon.bin.sh/) - a collection of generators for random generators for names, npcs, treasures, etc
 - [Birthday Generator](https://wot7bday.glitch.me/) - randomly generates your birth day and sign (made for Will of the 7 Campaign setting)
+
+<h3>Inexpensive Minis</h3>
+
+- [Wiz Kids Unpainted](https://wizkids.com/dnd-unpainted/)
+- [Wiz Kids Deep Cuts](https://wizkids.com/deep-cuts-unpainted/)
+- [Reaper Bones Fantasy](https://www.reapermini.com/miniatures/bones+fantasy/latest)

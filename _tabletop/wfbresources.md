@@ -17,6 +17,12 @@ Note: all of these are specifically for Warhammer 8th Edition and below. I don't
 
 - [Wound Markers](https://ironheartartisans.com/shop/acrylic-wound-markers-set/) - nice wound markers, designed for square base models
 
+### Dice
+
+This is warhammer so you have to buy in bulk. I like the 36 dice sets from Cheesex:
+
+- [Cheesex Block of Dice](https://amzn.to/2RsjMVe) - nice block of 36 small dice
+
 ### Movement Trays
 
 By far the best choice here is the Tectonic Craft Studios. They are perhaps the best known for their laser cut terrain, and that's what you'll primarily see at their con booth, but their movement trays are fantastic. They are customizable, robust and perfect for any army:

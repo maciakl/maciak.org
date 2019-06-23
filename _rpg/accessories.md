@@ -17,6 +17,12 @@ A nice dice tray is a good investment. They have dual purpose: they store your d
 
 It has a nice "dice staging area" around the lip, where you can keep the dice. When you put the lid on, the dice stay put in the staging area and do not rattle around.
 
+If you would like a cheep alternative:
+
+- [Ultra Pro Tray](https://amzn.to/2XxlslC)
+
+Plenty of rolling space. There's no staging area, but the tray is large enough to fit your dice bag, and other things like pencils, note cards, etc.. One disadvantage is that the sleeve it comes with is cardboard, and will wear rather quickly in your bag.
+
 If you want something smaller:
 
 - [The Ark Dice Tray](https://amzn.to/2J3VbT4)
