@@ -1,7 +1,7 @@
 ---
 layout: wide
 title: RPG Accessories
-subtitle: Various Useful Things
+subtitle: stuff other than dice
 description: useful things to put in your gaming bag
 ---
 
