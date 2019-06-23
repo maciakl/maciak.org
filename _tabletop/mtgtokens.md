@@ -12,15 +12,15 @@ When I was actively playing MTG I was making proxy token cards for friendly game
 
 I haven't played in a while, so all of these are from Dragons/Khans/Origins era.
 
-All token sheets are provided as photoshop (psd) files so you can re-arrange or edit as you wish.
+All token sheets are provided as PDF files.
 
 ### Downloads
 
-- [Dragons of Tarkir Token Set](/doc/token-dragonsoftarkir.psd) (psd)
-- [Origins Token Set](/doc/token-origins.psd) (psd)
-- [Elementals](/doc/token-elementals.psd) (psd)
-- [Goblins and Centaurs](/doc/token-goblinscentaurs.psd) (psd)
-- [Khans Warrior Tokens](/doc/token-khanwarriors.psd) (psd)
-- [Morhph Tokens](/doc/token-morphs.psd) (psd)
-- [Squid Tokens](/doc/token-squids.psd) (psd)
+- [Dragons of Tarkir Token Set](/doc/token-dragonsoftarkir.pdf) (pdf)
+- [Origins Token Set](/doc/token-origins.pdf) (pdf)
+- [Elementals](/doc/token-elementals.pdf) (pdf)
+- [Goblins and Centaurs](/doc/token-goblinscentaurs.pdf) (pdf)
+- [Khans Warrior Tokens](/doc/token-khanwarriors.pdf) (pdf)
+- [Morhph Tokens](/doc/token-morphs.pdf) (pdf)
+- [Squid Tokens](/doc/token-squids.pdf) (pdf)
 
