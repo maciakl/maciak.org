@@ -8,7 +8,7 @@ order: 1
 
 ### Who am I?
 
-I am a human person who makes things with computers on the cyberweb. I play D&D, Warmachine, Malifaux, Frostgrave and bunch of other games.
+I am a human person who makes things with computers on the cyberweb. I play D&D, Warmachine, Malifaux, Frostgrave, Warhammer Fantasy and bunch of other games.
 
 ### What is this?
 

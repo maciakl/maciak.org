@@ -3,7 +3,7 @@ layout: simple
 title: Web
 subtitle: Design & Tools
 image: web.jpg
-order: 8
+order: 7
 ---
 
 ### Web Stuff

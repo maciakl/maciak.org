@@ -36,7 +36,7 @@ It's a great starter set that checks all the boxes mentioned above.
 
 Sometimes you need non-standard dice for specific edge cases:
 
-- [Shadowrun Dice](https://amzn.to/2Kt0Ogm) - specially designed Shadowrun dice, with two colors of pips
+- [Shadowrun Dice](https://amzn.to/2Kt0Ogm) - specially designed Shadowrun dice, with three colors of pips
 - [Skew Dice](https://amzn.to/2MZUtLI) - nicely deformed, great for horror games or Blades in the Dark
 - [Hex Dice](https://www.thediceshoponline.com/dice/4411/impact-opaque-hexidice-d16-hexadecimal-dice) - hexadecimal dice (I'm designing a game around them)
 - [Binary Dice](https://amzn.to/2X1QyTm) - a d6 with sides marked 0 or 1. It can serve as a D2
