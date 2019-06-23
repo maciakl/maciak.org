@@ -20,7 +20,7 @@ There are couple of decent online choices here:
 
 ### Tokens
 
-It's probably best to make your own, but sometimes you may just want some pre-made ones:
-
+- [Basic Acrylic Token Set](https://litko.net/products/litko-upgrade-set-for-frostgrave-31) - includes treasure tokens, reload tokens, wound tokens, and etc..
 - [Warlord Treasure Tokens](https://us-store.warlordgames.com/products/frostgrave-resin-treasure-tokens) - a resin token set
-- [Wiz Kids Deep Cuts](https://wizkids.com/wizkids-deep-cuts/) - good assortment of chests
+- [Wiz Kids Deep Cuts](https://wizkids.com/wizkids-deep-cuts/) - good assortment of chests for making treasure tokens
+- [LITKO Treasure Tokens](https://litko.net/products/treasure-tokens-transparent-yellow-10) - bright yellow, transparent acrylic tokens
