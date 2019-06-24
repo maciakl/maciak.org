@@ -12,7 +12,7 @@ MECCG or Middle Earth Collectible Card Game is possibly the best CCG ever publis
 
 ### How do I get started?
 
-Bad news is that this game has been dead for decades. Best place to start is to pick up a challenge deck on eBay. These are similar to METW commander decks: they are fully playable decks with build in synergies intended to be played against each other. There are 5 wizard decks and 5 Ringwraith decks to choose from. You can sometimes snatch them up for cheap on ebay:
+Bad news is that this game has been dead for decades. Best place to start is to pick up a challenge deck on eBay. These are similar to MTG commander decks: they are fully playable decks with build in synergies intended to be played against each other. There are 5 wizard decks and 5 Ringwraith decks to choose from. You can sometimes snatch them up for cheap on ebay:
 
 - [MECCG Challenge Decks](https://www.ebay.com/sch/i.html?_nkw=middle+earth+challedge+deck) - search for them on ebay
 
