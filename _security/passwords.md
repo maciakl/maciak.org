@@ -23,7 +23,7 @@ What you've been told about passwords is a lie. Use a phrase consisting of five 
 
 Do not use your black LastPass Yubikey for anything else.
 
-- Enable [Two Factor Authentication](https://twofactorauth.org/) on else. And I mean **everything**.
+- Enable [Two Factor Authentication](https://twofactorauth.org/) on everything else. And I mean **everything**.
 - Use [Authy](https://authy.com/) as your 2fa code generator on your phone
 - Get the blue [FIDO-U2F Yubikey](https://www.yubico.com/products/yubikey-hardware/fido-u2f-security-key/) for Google, Facebook, Github &amp; Dropbox
 
