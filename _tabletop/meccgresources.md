@@ -24,6 +24,10 @@ I made a deck builder app, which is available here:
 
 - [MECCG Deck Builder](/tabletop/meccgdeckbuilder/) - generates proxies based on a list
 
+If you need some lists to test, try the challenge deck lists:
+
+- [MECCG Challenge Decks](/tabletop/meccgdecklist/) - list of cards for each MECCG challenge deck
+
 ### Rules
 
 A challenge deck or a starter deck will come with a tiny rulebook from which you can learn the rules. That said, the community around the game is still vibrant and they have been maintaining the rulebooks and updating them with erratas and tournament rulings. You can download the community maintained rulebooks from here:
