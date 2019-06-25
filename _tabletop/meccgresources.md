@@ -20,6 +20,10 @@ Alternatively, build your own deck for friendly games using printable card proxi
 
 - [MECCG Card Proxies](/tabletop/meccgcards/) - card proxies
 
+I made a deck builder app, which is available here:
+
+- [MECCG Deck Builder](/tabletop/meccgdeckbuilder/) - generates proxies based on a list
+
 ### Rules
 
 A challenge deck or a starter deck will come with a tiny rulebook from which you can learn the rules. That said, the community around the game is still vibrant and they have been maintaining the rulebooks and updating them with erratas and tournament rulings. You can download the community maintained rulebooks from here:

@@ -12,7 +12,7 @@ A deck builder for MECCG, partly inspired by services such as MTGPress. It allow
 
     1 Cardback
 
-Also, always capitalize each word, in multi-word card names and never put hyphens in your list, even if the actual card has hyphen.
+Also, always capitalize each word, in multi-word card names and never put hyphens in your list, even if the actual card has hyphen. There are no prompts, and no checking for deck validity. You have to know the card names, and the game rules to construct a valid deck (just like with physical cards).
 
 The service prints 4 cards per page. They are regulation 63mm x 88mm collectible card size.
 
@@ -25,4 +25,4 @@ Hosted off-site because reasons:
 
 ### Legal
 
-<small>MECCG content is &copy; Iron Crown Enterprises. You may download the archive only with the owner's permission or if you have purchased the cards and have a legal right to use them by means of "fair use".</small>
+<small>MECCG content is &copy; Iron Crown Enterprises. Use only if you have purchased the cards and have a legal right to use them.</small>
