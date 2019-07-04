@@ -19,6 +19,8 @@ Enter the tunnels: you establish an ssh tunnel to your home box (let's call it a
 
 ### Give me the scripts already
 
+You will probably need [the color script](/lin/colors/) to make these work.
+
 Here they are:
 
 <script src="https://gist.github.com/maciakl/21bef6e2679d7969db14e701fb09cc75.js"></script>
