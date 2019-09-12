@@ -1,30 +1,9 @@
 ---
 layout: wide
 title: Warmahordes Resources
-subtitle: Buy or Print
-description: useful tokens and templates you can buy or print
+subtitle: Tokens and Templates
+description: useful tokens, templates and accessories you can buy
 ---
-
-<h3>Printable Templates</h3>
-
-Most of these are PDF files you can print out and cut out.
-
-- [Official Template Set](https://app.box.com/s/teqxklzf3ba0brc60gm5lzosnc9z4icc) - when you forgot your acrylic set
-
-- [Front Arc Markers](/doc/frontarc.pdf) - great for painting front arc on your models
-
-- Printable wreck markers:
-
-  - [Cygnar, Khador, Cryx and Menoth](https://app.box.com/s/k76gut1vb3yf7v0ihzgd22kbaz6avaaq)
-
-  - [Retribution and Mercenaries](https://app.box.com/s/zbltyzjg9n1kdxoe1ktkhzhoz3q46npq)
- 
-- Flat terrain:
-
-  - [Large Pond](https://app.box.com/s/ohc18iligiehossz0ik2vppthehnfk5i)
-  - [Small Pond](https://app.box.com/s/t65f01oo7rmvld3wz4y5kwes4alg61mx)
-  - [Roads](https://app.box.com/s/rbgqvbltu9cvoqp5uehtif9clx1iq6ff)
-
 
 <h3>Tokens and Templates</h3>
 
