@@ -9,7 +9,9 @@ description: my favorite modeling/painting tools
 
 - [Squadron Seam Scraper](http://amzn.to/1ji0Ne2) - great tool for removing mould lines
 
-- [Squadron Putty Applicator](http://amzn.to/1ji0Ne2) - simple sculpting tool for green stuff
+- [Squadron Putty Applicator](https://amzn.to/2O8dniz) - simple sculpting tool for green stuff
+
+- [Squadrom Scribing Tool](https://amzn.to/2NZzbws) - a thin tool for scribing or etching in green stuff / putty
 
 - [Xuron 2175ET Sprue Cutter](http://amzn.to/1R4OOe9) - thin flat sheer cutter, great for cutting models out of spures
 
