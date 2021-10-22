@@ -6,26 +6,50 @@ image: kbd.jpg
 order: 8
 ---
 
-### IT Services
+### Can you fix my computer?
 
-This page exists mainly to inform friends of relatives: yes, I can potentially fix your computer, but only if you make it worth my time.
+Short answer: no.
 
-Services include, but are not limited to:
+Regardless what you might have been told, I do not offer free IT services much in the same way as car mechanics do not offer free repairs to friends of acquietances. If someone refered me to you or gave you my number, please do not expect a callback unless:
+
+- I personally know you
+- I explicitly agreed to help with your issue/project
+- You are willing to pay my rates
+
+### Rates and Services
+
+#### General IT Work
+
+This includes:
 
 - hardware and software upgrades
 - out of warranty hardware repairs
 - malware removal and cleaning
-- performance tuning
-- installation and configuration
-- server setup (apache, mysql, postgress, passenger, etc..)
+- setup installation and configuration
 
-By referral only. Will not respond to unsolicited requests.
+I usually charge $75 per hour. 
 
-### Fees
-
-$50/hr for drop-off/pick-up work, $80/hr + millage and travel expenses for on-site work. 
+You drop off or mail your hardware to me. I don't do on-site work.
 
 Software and hardware purchases not included.
+
+#### SysOp / Dev Work
+
+This includes
+
+- server setup (apache, mysql, postgress, passenger, etc..)
+- app / web design
+- bug fixes or modifications 
+
+I usually charge $100 per hour. 
+
+Remote work only. I don't do on-site work.
+
+If you need hosting, you need to pay for it separarely. I will not maintain the project for free. I will charge you normal rate for bug fixes.
+
+### Payments
+
+I accept Paypal, Venmo or Cashapp.
 
 ### Documents
 
