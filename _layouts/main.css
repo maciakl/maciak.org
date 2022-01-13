@@ -1,0 +1,10 @@
+#myCarousel img {
+  width: auto;
+  height: 225px !important;
+  max-height: 225px !important;
+}
+
+.carousel {
+  max-height: 400px !important;
+  overflow: hidden !important;
+}
