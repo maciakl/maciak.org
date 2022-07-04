@@ -17,4 +17,3 @@ Make a batch file, and name it the same as your ps1 script, and put this inside:
 
 This will bypass the execution policy for this one script. Obviously, the batch script has to be in the same folder ans the ps1 script.
 
-<script src="https://gist.github.com/maciakl/54132b93e7be30d5182e.js"></script>

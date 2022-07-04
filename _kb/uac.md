@@ -25,3 +25,7 @@ Here is how you go deeper
 1. Reboot
 
 Make sure you don't leave it in this state. Do what you need to do, then slide that UAC slider all the way up on your way out.
+
+### Helper Script
+
+<script src="https://gist.github.com/maciakl/4e5b48291bf52802e190492f15c95d5a.js"></script>

@@ -11,8 +11,25 @@ Need a script that automatically changes the Windows computer name to match it's
 
 ### Solution
 
-Here is a Powershell script to rename and reboot the machine:
+To find your Dell Service Tag run:
 
-<script src="https://gist.github.com/maciakl/5094107.js"></script>
+    wmic bios get serialnumber
 
-Run as Administrator obviously.
+To rename your computer from powershell:
+
+   Rename-Computer -NewName SERVICETAG -Restart
+
+If you want to combine the two:
+
+    for /f "skip=1" %%i in ('wmic bios get serialnumber') DO (	
+		set SERVICETAG=%%i
+	)
+    set SERVICETAG=%SERVICETAG:~0,7%
+    powershell -Command "Rename-Computer -NewName %SERVICETAG% -Restart"
+
+
+### Helper Script
+
+Here's an interactive helper script that automates this process:
+
+<script src="https://gist.github.com/maciakl/623f2a0dda4ee41c5910e5f32474a65c.js"></script>

@@ -20,3 +20,9 @@ You can do it from the command line:
 ```
 
 You can now log in as Administrator.
+
+### Helper Script
+
+Here's an interactive helper script:
+
+<script src="https://gist.github.com/maciakl/7da540c8b11ee65f4e87925dd03304b2.js"></script>
