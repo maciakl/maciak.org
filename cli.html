@@ -1,0 +1,34 @@
+---
+layout: simplest
+title: CLI
+subtitle: Platform Independent Command Line Tools
+image: termn.jpg
+order: 6
+---
+
+<h3>Tools I Made</h3>
+
+<ul>
+    <li><a href="https://github.com/maciakl/jjmp">jjmp</a> - bookmarks for the CLI.</li>
+    <li><a href="https://github.com/maciakl/gopher">gopher</a> - an opinionated Golang project bootstrapping tool.</li>
+    <li><a href="https://github.com/maciakl/weather">weather</a> - weather forecast on the command line.</li>
+    <li><a href="https://github.com/maciakl/pv">pv</a> - a previewer for LF file manager.</li>
+    <li><a href="https://github.com/maciakl/myip">myip</a> - display your IP address.</li>
+    <li><a href="https://github.com/maciakl/dashword">dashword</a> - simple password generator.</li>
+    <li><a href="https://github.com/maciakl/post">post</a> - http post a file to an upload site.</li>
+    <li><a href="https://github.com/maciakl/sieve">sieve</a> - filter text files.</li>
+    <li><a href="https://github.com/maciakl/netsquirt">netsquirt</a> - serve a single file over http.</li>
+    <li><a href="https://github.com/maciakl/createfile">createfile</a> - create a file of arbitrary size.</li>
+    <li><a href="https://github.com/maciakl/dicword">dicword</a> - randomly generate a dictionary word.</li>
+</ul>
+
+<h3>CLI Resources</h3>
+
+<ul>
+    {% for page in site.cli %}
+        <li>
+            <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
+        </li>
+    {% endfor %}
+</ul>
+

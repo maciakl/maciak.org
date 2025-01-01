@@ -29,6 +29,8 @@ collections:
         output: true
     lock:
         output: true
+    cli:
+        output: true
 
 exclude:
   - Gemfile

@@ -20,7 +20,7 @@ The service prints 4 cards per page. They are regulation 63mm x 88mm collectible
 
 Hosted off-site because reasons:
 
-- [MECCG Deck Builder](https://upbeat-bartik-161e29.netlify.com/)
+- [MECCG Deck Builder](https://meccg.netlify.app/)
 
 
 ### Legal
