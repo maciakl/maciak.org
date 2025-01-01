@@ -1,14 +1,14 @@
 ---
 layout: simple
 title: Home
-subtitle: an internet website in cyberspace
+subtitle: welcome to my website
 image: lmgrayscale.JPG
 order: 1
 ---
 
 ### Who am I?
 
-I am a human person who makes things with computers on the cyberweb. I play D&D, Warmachine, Malifaux, Frostgrave, Warhammer Fantasy, X-Wing, MECCG and bunch of other games.
+I am a person who makes things with computers on the internet. I play D&D, Warmachine, 40K, Malifaux, Frostgrave, Warhammer Fantasy, X-Wing, MECCG and bunch of other games.
 
 ### What is this?
 

@@ -21,12 +21,6 @@ description: list of recommended browser extensions
                 <td><a target="_blank" href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak?hl=en-US">edge</a></td>
             </tr>
             <tr>
-                <th>https everywhere</th>
-                <td><a target="_blank" href="https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en">chrome</a></td>
-                <td><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/">firefox</a></td>
-                <td><a target="_blank" href="https://microsoftedge.microsoft.com/addons/detail/https-everywhere/fchjpkplmbeeeaaogdbhjbgbknjobohb?hl=en-US">edge</a></td>
-            </tr>
-            <tr>
                 <th>malwarebytes</th>
                 <td><a target="_blank" href="https://chrome.google.com/webstore/detail/malwarebytes-browser-guar/ihcjicgdanjaechkgeegckofjjedodee?hl=en">chrome</a></td>
                 <td><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/malwarebytes/">firefox</a></td>
@@ -48,6 +42,6 @@ description: list of recommended browser extensions
 
 ### Notes
 
-- Allways install uBlock Origin and HTTPS Everywhere.
-- For Chrome choose either MS Defender or Malwarebytes Browser Guard (they conflict with each other if both are installed).
+- Allways install uBlock Origin
+- For Chrome choose either MS Defender or Malwarebytes (not both)
 - Traffic Light is for less savvy users: it puts big checkmarks on safe search results and etc.
