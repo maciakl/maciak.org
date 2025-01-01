@@ -2,7 +2,7 @@
 layout: simple
 title: Security
 subtitle: Infosec Tips
-image: termn.jpg
+image: sec.png
 order: 8
 ---
 
