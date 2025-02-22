@@ -18,6 +18,19 @@ order: 9
     {% endfor %}
 </ul>
 
+<h2>Tabletop Miniatures</h2>
+
+<ul>
+    {% for page in site.mini %}
+        <li>
+        <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
+        </li>
+    {% endfor %}
+</ul>
+
+
+
+
 <h3>Tabletop Things</h3>
 
 <ul>		

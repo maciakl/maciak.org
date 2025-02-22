@@ -31,6 +31,8 @@ collections:
         output: true
     cli:
         output: true
+    mini:
+        output: true
 
 exclude:
   - Gemfile
