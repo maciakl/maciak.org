@@ -44,7 +44,22 @@ To make sure your server can be accessed both by `hostname` and `hostname.local`
 
     sudo apt install avahi-daemon
 
-This should resolve that issue.
+This will also allow your server to resolve other `.local` addresses on the network.
+
+### Enable NFS Support
+
+To enable NFS install `nfs-common` package:
+
+    sudo apt install nfs-common
+
+To temporarily mount an NFS folder:
+
+    sudo mount -t nfs server.local:/path/to/share /mount/point
+
+To to make it permanent add the following to `/etc/fstab`:
+
+    server.local:/path/to/share /mount/point nfs rw 0 0
+
 
 ### Vim
 
