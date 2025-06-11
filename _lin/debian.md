@@ -60,12 +60,22 @@ To to make it permanent add the following to `/etc/fstab`:
 
     server.local:/path/to/share /mount/point nfs rw 0 0
 
+### Bashrc Aliases
+
+Here are my most commonly used aliases:
+
+<script src="https://gist.github.com/maciakl/6cee02cc43a620da99c4bb52e6c00623.js"></script>
+
+You can install them like so:
+
+    wget https://tinyurl.com/mpa45zpr -O ~/.bash_aliases
 
 ### Vim
 
 Install vim:
 
     sudo apt install vim
+    wget https://tinyurl.com/y4dbht37 -O ~/.vimrc
 
 If you want a minimal .vimrc you can use this:
 
