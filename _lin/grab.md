@@ -34,27 +34,14 @@ The installed program must be:
 Examples:
 
 ```bash
-    grab maciakl/weather weather_lin.zip weather
-    grab maciakl/weather weather_lin.zip
+    grab maciakl/os os_lin.zip os
+    grab maciakl/os os_lin.zip
 ```
 ### Installing
 
 To install `grab`, you can use the following command:
 
 ```bash
-sudo wget -qN \
-https://gist.githubusercontent.com/maciakl/a3b689230b155227abeb35a462cb6478/raw/a0b75862713e518cf595f3623278fbba38a850e4/grab \
--O /usr/local/bin/grab \
+sudo wget -qN https://maciak.org/grab -O /usr/local/bin/grab \
 && sudo chmod +x /usr/local/bin/grab
 ```
-
-### Code
-
-Here is the code for `grab` in it's entirety:
-
-<script src="https://gist.github.com/maciakl/a3b689230b155227abeb35a462cb6478.js"></script>
-
-If the script starts getting to big, I may create a repository for it.
-
-
-
