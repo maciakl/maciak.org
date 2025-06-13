@@ -19,7 +19,7 @@ I wrote this script because I wanted around 10% of the functionality of [fox](ht
 Grab takes 2 arguments:
 
 1. The repository in the format `user/repo`
-3. (optional) The name of the executable within the archive
+3. (optional) The name of the executable within the archive, if it's different from the repository name
 
 You can skip the second argument, in which case it will default to the name of the repository (eg. `fzf`).
 
@@ -39,6 +39,7 @@ Examples:
 ```bash
     grab junegunn/fzf
     grab eza-community/eza
+    grab burntsushi/ripgrep rg
 ```
 Grab is not smart enough to figure out which released version is correct for your platform, so it will list the available files and ask you which one you want.
 
