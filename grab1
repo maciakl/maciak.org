@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VER="0.2.0"
+VER="0.1.3"
 
 GR="\033[0;36m"
 RD="\033[0;31m"
@@ -25,33 +25,20 @@ msg "platform: ${OSTYPE}"
 command -v wget >/dev/null 2>&1 || { err "wget not installed"; exit 1;} 
 command -v unzip >/dev/null 2>&1 || { err "unzip not installed"; exit 1;} 
 command -v tar >/dev/null 2>&1 || { err "tar not installed"; exit 1;} 
-command -v curl >/dev/null 2>&1 || { err "curl not installed"; exit 1;} 
 
-[ -z $1 ] && { err "1st arggument must be a github address in the format: user/repo"; exit 1; }
+[ -z $1 ] && { err "1st arg must be user/repo"; exit 1; }
+[ -z $2 ] && { err "2nd arg must be archive name"; exit 1; }
+
 u="${1}"
+a="${2}"
 
-if [ -z $2 ]; then
+if [ -z $3 ]; then
     ex=${1##*/}
-    warn "2rd arggument (executable name) missing, assuming it is: ${ex}"
+    warn "3rd arg missing, assuming it is ${ex}"
     e="${ex}"
 else
-    e="${2}"
+    e="${3}"
 fi
-
-# grab list of released files from github
-lst=$(curl -s "https://api.github.com/repos/${u}/releases/latest" | grep "browser_download_url" | grep "${e}" |  cut -d '"' -f 4 | xargs -n1 basename)
-
-echo -e "\nchoose the version you would like to install:"
-select choice in ${lst}; do
-    if [[ -n $choice ]]; then
-        a="${choice}"
-        msg "\nYou chose to install ${a}"
-        break
-    else
-        err "invalid choice, try again"
-    fi
-done
-
 
 tmpf="/tmp/grab_cache_$$"
 msg "creating cache in ${tmpf}"
