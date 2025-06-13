@@ -64,9 +64,9 @@ Grab installs programs in `/usr/local/bin/`. To uninstall a program called `foo`
 ```
 
 
-### Installing
+### Installing / Upgrading
 
-To install `grab`, you can use the following command:
+To install and/or upgrade `grab`, you can use the following command:
 
 ```bash
 sudo wget -qN https://maciak.org/grab -O /usr/local/bin/grab \
