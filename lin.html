@@ -9,7 +9,8 @@ order: 6
 <h3>Useful Things</h3>
 
 <ul>
-    {% for page in site.lin %}
+    {% assign sorted = site.lin | sort: 'title' %}
+    {% for page in sorted %}
         <li>
             <a href="{{page.url}}">{{page.title}}</a> - {{page.description}}
         </li>
