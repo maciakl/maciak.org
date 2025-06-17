@@ -1,7 +1,7 @@
 ---
 layout: wide
-title: What is My IP
-subtitle: the real one tho
+title: What is My Public IP
+subtitle: the real routable one tho
 description: how to find your routable ip on cli
 ---
 

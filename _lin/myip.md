@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: What is My IP
+title: What is My Local IP
 subtitle: on the nat
 description: how to find your local ip
 ---

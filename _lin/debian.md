@@ -105,6 +105,7 @@ Next, install a firewall:
 
     sudo apt install ufw
     sudo ufw allow OpenSSH
+    sudo ufw allow mdns
     sudo ufw enable
 
 If you are planning to run a web server:

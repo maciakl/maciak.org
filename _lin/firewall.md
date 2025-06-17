@@ -14,6 +14,7 @@ To install the firewall on debian/ubuntu or other apt based system:
 Next, configure it to allow inbound SSH:
 
     sudo ufw allow OpenSSH
+    sudo ufw allow mdns
 
 Finally enable the firewall:
 
