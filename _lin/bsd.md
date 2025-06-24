@@ -73,6 +73,33 @@ hosts: files mdns dns
 Reboot the system.
 
 
+##### Ports Method for installing Avahi:
+
+If you prefer to use the ports, you can install Avahi like this:
+
+```sh
+cd /usr/ports/net/avahi-app
+sudo make config-recursive
+sudo make install clean
+cd /usr/ports/dns/nss_mdns
+sudo make config-recursive
+sudo make install clean
+```
+
+##### Avahi Conf Files
+
+The main conf files are in:
+
+```sh
+/usr/local/etc/avahi/
+```
+Services are defined in:
+
+```sh
+/usr/local/etc/avahi/services/
+```
+
+
 #### Install Neofetch
 
 Use `fastfetch` instead:
